@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+}
+.block1{
+    height: 803px;
+    background-color: #eff0f2;
+    padding: 65px 150px ;  
+}
+.imgshopno{  
+    margin-right: :145px;
+    margin-top: 100px;
+}
+.menu img{
+ margin-left: 700px;
+ position: absolute;
+ margin-top: -40px;
+
+}
+p{
+    margin: 0;
+}
+.line_center{
+    font-family: ﻿Montserrat-Bold, ﻿
+    font-size: 45px;
+    text-align: center;
+    margin-top: 200px;
+}
+span{
+    background: #b2f2ee;
+    color: #505050;
+    padding: 2px;
+}
+.contact{
+    color: #5a5b5b;
+    font-size: 26px;
+    border: 2px solid #5a5b5b;
+    padding: 16px 30px 13px 27px;
+    border-radius: 2px;
+    display: inline-block;
+    vertical-align: middle; 
+    transition: all 2s; 
+    height: 53px;
+    width: 232px;
+    margin-right: center;
+    margin-top: 139px;
+}
+h1{
+    margin-top: 0;
+}
+.juice_eligen{
+    padding-left: 30%;
+    position: absolute;
+}
+
+.block2{
+    height: 985px;
+    background-color: #f8fafa;
+}
+.line_center2{
+    line-height: 28px;
+    font-weight: 700;
+    font-family: ﻿Montserrat-Bold, ﻿
+    font-size: 45px;
+    text-align: center;
+    padding-top: 123px;
+    }
+    h3{
+        color:#bcbebe;
+    }
+.line2{
+    color:#505050;
+    }
+.img2{
+    /*padding: 395px 486px;*/
+    margin-top: 0; 
+    position: center;
+    right: 395px;
+    height: 486px; 
+
+}
+.text-column{
+    width: calc(49% - 70px);
+    vertical-align: top;
+    /*padding: 0 35px;*/   
+}
+.text {
+     color: rgba(0, 0, 0, 0.75);
+     margin-top: 10px;
+    margin-left: auto;
+    width: 474px; 
+    
+    padding: 0 20px; 
+    float: left; 
+    font-size: 20px;
+    font-weight: 700;
+    text-align: justify;
+}
+.text h2{
+    color: #666767;
+    font-family: ﻿Merriweather-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+    font-size: 20pt;
+    font-weight: normal;
+    text-align: left;
+}
+.text h3{
+    font-family: ﻿Merriweather-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+    font-size: 17pt;
+    color: rgba(0, 0, 0, 255);
+    text-align: left;
+     text-align: justify;
+}
